@@ -26,7 +26,8 @@ This project uses NPM to manage software dependencies. NPM Relies on the package
 npm install
 ```
 
->_tip_: **npm i** is shorthand for **npm install**
+>_Tip_: **npm i** is shorthand for **npm install**<br />
+>_For More Details_: Check out this website [https://www.guru99.com/download-install-node-js.html](https://www.guru99.com/download-install-node-js.html).
 
 ## Required Tasks
 
