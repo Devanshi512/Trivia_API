@@ -1,11 +1,11 @@
 # Full Stack Trivia API Project
 This project is a game where users can test their knowledge answering Trivia questions. The task for the project was to create an API and test suites for implementing the following functionality:
 
->> 1) Display questions - All questions by their category. 'Questions' should show the question, category and difficulty rating by default and can show/hide the answer.<br />
->> 2) Delete questions<br />
->> 3) Add questions and require that they include question and answer text<br />
->> 4) Search for questions based on a text query string<br />
->> 5) Play the quiz game, randomizing either all questions or within the specific category<br />
+> 1) Display questions - All questions by their category. 'Questions' should show the question, category and difficulty rating by default and can show/hide the answer.<br />
+> 2) Delete questions<br />
+> 3) Add questions and require that they include question and answer text<br />
+> 4) Search for questions based on a text query string<br />
+> 5) Play the quiz game, randomizing either all questions or within the specific category<br />
 
 ## Getting Started
 
@@ -442,5 +442,5 @@ This endpoint either creates a new question or returns search results.
 
 ## Authors
 
-Devanshi Patel has authored and modified the API (`__init__.py`), test suites (`test_flaskr.py`), and README files to complete the Trivia API Full Stack project as a part of Full Stack Web Developer Nano Degree Program.<br>
+Devanshi Patel authored and modified the API (`__init__.py`), test suites (`test_flaskr.py`), and README files to complete the Trivia API Full Stack project as a part of Full Stack Web Developer Nano Degree Program.<br>
 All other project files, including the models and frontend, were created by [Udacity](https://www.udacity.com/) as a project template for the [Full Stack Web Developer Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd0044).
